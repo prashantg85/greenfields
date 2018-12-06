@@ -1,0 +1,118 @@
+{
+  "settings": {
+    "name": "GREENFILEDS DATABASE FOR GOVERNMENT RECORDS",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 8,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-5",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "images/bg.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "GREENFIELDS",
+          "text": "GREEN FIELDS VICTIMS EFFORT FOR SUPPORTING GOVT LANDS AN REQUEST FOR LAND REGULARIZATION",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"http://tijilhms.xyz/greenfields/guestad/add\" data-toolbar=\"-mbrBtnMove\">REGISTER YOURSELF<br>&amp;<br>UPDATE WITH YOUR PLOT DETAILS<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://greenfpoa.blogspot.com/\" data-toolbar=\"-mbrBtnMove\">GREEENFILEDS WEBSITE<br>&amp;<br>WITH DETAILED INFO ABOUT 35 YEARS SAGA &amp; THE PUBLICATIONS<br></a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-6",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dsc-265x332.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>PRESIDENT:<br>GREEN FIELD PLOT OWNER'S ASSOCIATION.<br>CITY CAMP OFFICE :<br>201, CONCRETE RHYTHM APTS, PLOT NO 31, ROAD NO 2,<br>PRASHANTHINAGAR, UPPAL, HYDERABD 500039. <br>CELL No 0091-97036-72234,<br>CONTACTS<br>Email:schandrasekhar06@gmail.com<br>greenfpoa@gmail.com<br>&nbsp;<br>",
+          "text2": "<br>Mr.S.Chandrasekhar's Other Credentials  <br> CHAIRMAN, Pro FORCE, (PROFESSIONALS FORUM ON RTI ACT COMPLETE ENFORCEMENT)<br>ACE FORUM<br>Head, Anti Corruption Enforcement Forum<br> CHAIRMAN, FORUM FOR RESTORATION OF OLD TEMPLES<br>Vishwa Hindu Parishad , Telanganna , President<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://greenfpoa.blogspot.com\"><b>GREENFILEDS</b></a></li><li><a href=\"http://tijilhms.xyz/greenfields/guestad/add\"><b>REGISTRATION FOR GOVT DATABASE</b></a></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-7",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2015 GREEN FIELD PLOT OWNER'S ASSOCIATION.. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    }
+  }
+}
