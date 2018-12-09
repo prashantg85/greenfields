@@ -9,7 +9,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 8,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -51,7 +53,7 @@
           },
           "title": "GREENFIELDS",
           "text": "GREEN FIELDS VICTIMS EFFORT FOR SUPPORTING GOVT LANDS AN REQUEST FOR LAND REGULARIZATION",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"http://tijilhms.xyz/greenfields/guestad/add\" data-toolbar=\"-mbrBtnMove\">REGISTER YOURSELF<br>&amp;<br>UPDATE WITH YOUR PLOT DETAILS<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://greenfpoa.blogspot.com/\" data-toolbar=\"-mbrBtnMove\">GREEENFILEDS WEBSITE<br>&amp;<br>WITH DETAILED INFO ABOUT 35 YEARS SAGA &amp; THE PUBLICATIONS<br></a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"http://tijilhms.xyz/gogreenfields/guestad/add\" data-toolbar=\"-mbrBtnMove\">REGISTER YOURSELF<br>&amp;<br>UPDATE WITH YOUR PLOT DETAILS<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://greenfpoa.blogspot.com/\" data-toolbar=\"-mbrBtnMove\">GREEENFILEDS WEBSITE<br>&amp;<br>WITH DETAILED INFO ABOUT 35 YEARS SAGA &amp; THE PUBLICATIONS<br></a>"
         },
         {
           "_tags": [
